@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/George/CLionProjects/CIS 263/Ebeling_Project4/main.cpp
+cstdio
+-
+climits
+-
+iostream
+-
+vector
+-
+
